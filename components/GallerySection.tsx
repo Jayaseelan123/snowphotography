@@ -9,8 +9,8 @@ const images: GalleryImage[] = [
   { id: 2, src: '/images/2.jpg', alt: 'Wedding moment 2', category: 'Wedding Photos' },
   { id: 3, src: '/images/3.jpg', alt: 'Wedding moment 3', category: 'Wedding Photos' },
   { id: 4, src: '/images/4.jpg', alt: 'Wedding moment 4', category: 'Wedding Photos' },
-  { id: 5, src: '/images/6.jpg', alt: 'Wedding moment 5', category: 'Wedding Photos' },
-  { id: 6, src: '/images/5.jpg', alt: 'Wedding moment 6', category: 'Wedding Photos' },
+  { id: 5, src: '/images/5.jpg', alt: 'Wedding moment 5', category: 'Wedding Photos' },
+  { id: 6, src: '/images/6.jpg', alt: 'Wedding moment 6', category: 'Wedding Photos' },
 
   // Couple Portraits
   { id: 4, src: '/images/gallery/couple-1.jpg', alt: 'Couple portrait 1', category: 'Couple Portraits' },
@@ -22,11 +22,7 @@ const images: GalleryImage[] = [
   { id: 8, src: '/images/gallery/candid-2.jpg', alt: 'Candid moment 2', category: 'Candid Moments' },
   { id: 9, src: '/images/gallery/candid-3.jpeg', alt: 'Candid moment 3', category: 'Candid Moments' },
 
-  // 👶 Baby Shoot
-  { id: 10, src: '/images/gallery/bady-1.jpg', alt: 'Baby shoot 1', category: 'Baby shoot' },
-  { id: 11, src: '/images/gallery/bady-2.webp', alt: 'Baby shoot 2', category: 'Baby shoot' },
-  { id: 12, src: '/images/gallery/bady-3.webp', alt: 'Baby shoot 3', category: 'Baby shoot' },
-  { id: 13, src: '/images/gallery/bady-1.jpg', alt: 'Baby shoot 4', category: 'Baby shoot' },
+  
 ];
 
 const categories: GalleryCategory[] = [
